@@ -10,6 +10,10 @@ Dep ? pyton for ffy
 
 ~dir npm install
 
+Config:
+========================
+config.default.js -> config.js
+
 START:
 ========================
 ~ node /bin/www
