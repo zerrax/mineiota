@@ -18,7 +18,7 @@ START:
 ========================
 ~ node /bin/www
 
-Check Live on: [http://127.0.0.1:300](http://127.0.0.1:300)
+Check Live on: [http://127.0.0.1:3000](http://127.0.0.1:3000) or [http://localhost:3000](http://localhost:3000)
 
 Fix all for 0.0.1
 
