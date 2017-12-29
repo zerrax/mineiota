@@ -1,16 +1,17 @@
 
 OS:
-
-Work ? linux, windows
 ========================
+Work ? linux, windows
+
 
 BUILD:
-
+========================
 Dep ? pyton for ffy
 
 ~dir npm install
-========================
+
 START:
+========================
 ~ node /bin/www
 
 Fix all for 0.0.1
