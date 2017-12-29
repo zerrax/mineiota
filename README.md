@@ -1,3 +1,20 @@
+
+OS:
+
+Work ? linux, windows
+========================
+
+BUILD:
+
+Dep ? pyton for ffy
+
+~dir npm install
+========================
+START:
+~ node /bin/www
+
+Fix all for 0.0.1
+
 # mineiota
 IOTA Faucet - Get IOTA through mining Monero
 
