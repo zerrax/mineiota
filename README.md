@@ -18,6 +18,8 @@ START:
 ========================
 ~ node /bin/www
 
+Check Live on: [http://127.0.0.1:300](http://127.0.0.1:300)
+
 Fix all for 0.0.1
 
 # mineiota
